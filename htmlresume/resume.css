@@ -1,0 +1,105 @@
+h1 {
+    font-family: 'Asul', sans-serif;
+    
+}
+
+h3 {
+    font-family: 'Asul', sans-serif;
+    
+}
+h4 {
+    font-family: 'Asul', sans-serif;
+}
+h5 {
+    font-family: 'Raleway', sans-serif;
+}
+
+h6 {
+    font-family: 'Raleway', sans-serif;
+}
+p {
+    font-family: 'Raleway', sans-serif;
+}
+
+body {
+  
+    background-repeat: no-repeat;
+    border-top: 40px solid #fff;
+    border-bottom: 40px solid #fff;
+    
+}
+
+#title {
+    color: white; 
+    margin-left: 25px;
+    font-family: 'Chonburi', cursive;
+}
+
+#contact {
+    color: white; 
+    padding-bottom:2px;
+    font-family: 'Raleway', sans-serif;
+}
+
+#name {
+    color: white; 
+    text-align: left;
+    font-family: 'Chonburi', cursive;
+    margin-left: 25px;
+    
+}
+
+.line{
+    width: 350px;
+    margin-right: 120px;
+
+}
+.line2{
+    border-color:#2f466d;
+
+}
+.img {
+    border: 5px solid #fff;
+    border-radius: 4px;
+    margin-top: 40px;
+    margin-left: 30px;
+ }
+
+.about {
+    color: white; 
+    font-family: 'Raleway', sans-serif;
+   
+}
+
+.right {
+    color: #2f466d;
+    border: 5px solid #2f466d;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 25px;
+    font-family: 'Raleway', sans-serif;
+
+}
+
+#banner {
+
+    background-image: url("images/wireframebanner2copy.jpeg");
+    padding-bottom: 29px;
+}
+
+#interests {
+    color: white; 
+    font-family: 'Raleway', sans-serif;
+}
+
+.interests {
+    font-family: 'Raleway', sans-serif;
+    background-color: #2f466d;
+
+}
+
+
+
+
+

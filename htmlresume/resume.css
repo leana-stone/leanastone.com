@@ -38,11 +38,11 @@ body {
     text-align: center;
 }
 
-.contact {
+#contact {
     color: white; 
     padding-bottom:2px;
     font-family: 'Raleway', sans-serif;
-    text-align:center;
+    text-align:left;
     align-content: center;
     padding-right: 50px;
     margin-left: 25px;
@@ -69,9 +69,13 @@ body {
     border: 5px solid #fff;
     border-radius: 4px;
     margin-top: 30px; 
-    margin-left: 100px;
+    margin-left: 80px;
     
  }
+
+ /* #icons {
+     padding-left: 50px;
+ } */
 
 .about {
     color: white; 
@@ -85,7 +89,7 @@ body {
     padding-left: 40px;
     padding-right: 40px;
     padding-top: 20px;
-    padding-bottom: 28px;
+    padding-bottom: 35px;
     font-family: 'Raleway', sans-serif;
 
 }
@@ -94,6 +98,7 @@ body {
 
     background-image: url("images/wireframebanner2copy.jpeg");
     padding-bottom: 29px;
+    padding-left: 20px;
     
 }
 
